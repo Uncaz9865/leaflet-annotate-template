@@ -1,0 +1,53 @@
+{
+    "type": "CRSFeatureCollection",
+    "width": 640,
+    "height": 360,
+    "imageurl": "/leaflet-annotate-template/objects/mad-max-fury-road-interceptor1.jpg",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111,
+                    142
+                ]
+            },
+            "properties": {
+                "title": "Something related to engine",
+                "description": "The Supercharger: The famous Weiand 671 blower protruding from the hood was non-functional in the original 1979 film (driven by a hidden electric motor and toggle switch), though it was converted into a real working component for The Road Warrior.",
+                "color": "dark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    217,
+                    127
+                ]
+            },
+            "properties": {
+                "title": "Something mesh",
+                "description": "mesh mesh mesh",
+                "color": "danger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    431,
+                    213
+                ]
+            },
+            "properties": {
+                "title": "looks like a car door",
+                "description": "rusty car door",
+                "color": "warning"
+            }
+        }
+    ]
+}
