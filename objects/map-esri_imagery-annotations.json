@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "basemap": "Esri_WorldImagery",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9201311330138,
+                    -17.386463062265882
+                ]
+            },
+            "properties": {
+                "title": "Northern Wastes",
+                "description": "Northern wastes are where Northern wastes are",
+                "color": "success"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.69573859430436,
+                    -28.60783287973349
+                ]
+            },
+            "properties": {
+                "title": "The Outback",
+                "description": "The Outback is the Outback",
+                "color": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.3686634666872,
+                    -31.797445516745846
+                ]
+            },
+            "properties": {
+                "title": "The Badlands",
+                "description": "The Badlands bandlands badlands",
+                "color": "danger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.8776716596432,
+                    -25.55648308278317
+                ]
+            },
+            "properties": {
+                "title": "Immortan Joe's empire",
+                "description": "Where the story starts",
+                "color": "dark"
+            }
+        }
+    ]
+}
