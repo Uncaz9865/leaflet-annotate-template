@@ -18,4 +18,4 @@ Add annotated images and maps using the "leaflet-item.html" include!
 
 `{% raw %}{% include leaflet-item.html annotation="brueghel_map-annotations.json" %}{% endraw %}`
 
-{% include leaflet-item.html annotation="brueghel_map-annotations.json" %}
+{% include leaflet-item.html annotation="mad-max-fury-road-interceptor1-annotations.json" %}
