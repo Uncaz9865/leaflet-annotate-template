@@ -16,6 +16,6 @@ Add annotated images and maps using the "leaflet-item.html" include!
 
 ## Map Example
 
-`{% raw %}{% include leaflet-item.html annotation="brueghel_map-annotations.json" %}{% endraw %}`
+
 
 {% include leaflet-item.html annotation="brueghel_map-annotations.json" %}
