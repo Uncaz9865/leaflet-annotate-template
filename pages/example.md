@@ -10,7 +10,7 @@ Add annotated images and maps using the "leaflet-item.html" include!
 
 ## Image Example
 
-`{% raw %}{% include leaflet-item.html annotation="Jan_Brueghel_Snowy_Landscape-annotations.json" %}{% endraw %}`
+`{% raw %}{% include leaflet-item.html annotation="mad-max-fury-road-interceptor1-annotations.json" %}{% endraw %}`
 
 {% include leaflet-item.html annotation="Jan_Brueghel_Snowy_Landscape-annotations.json" %}
 
