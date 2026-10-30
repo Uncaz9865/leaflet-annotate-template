@@ -18,4 +18,4 @@ Add annotated images and maps using the "leaflet-item.html" include!
 
 
 
-{% include leaflet-item.html annotation="brueghel_map-annotations.json" %}
+{% include leaflet-item.html annotation="map-esri_imagery-annotations.json" %}
